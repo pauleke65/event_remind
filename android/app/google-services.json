@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101019683482",
+    "project_id": "event-remind",
+    "storage_bucket": "event-remind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101019683482:android:98999842796c022970ed23",
+        "android_client_info": {
+          "package_name": "com.example.event_remind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101019683482-o44i7qducjh95pi1gcbd4u1vus7phjma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSr7lS4slaBu125ZCTO-lo0DZ_XG-DVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101019683482-o44i7qducjh95pi1gcbd4u1vus7phjma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
